@@ -20,7 +20,7 @@
     width: 65px;
       height: 125px;
 
-}*/
+}
 
 #Flex{
 display: flex;
@@ -37,6 +37,8 @@ justify-content: space-between;
 
 #Flex .color{
     background-color: darkgreen;
-}
+}*/
+
+
    
 
