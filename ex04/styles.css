@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*.carré1, .carré2, .carré3, .carré4{
+      background-color: red;
+      border: 3px solid black;
+      width: 65px;
+      height: 125px;
+      float: left;
+      
+}
+
+.carré5{
+    float: right;
+    background-color: red;
+    border: 3px solid black;
+    width: 65px;
+      height: 125px;
+
+}*/
+
+#Flex{
+display: flex;
+justify-content: space-between;
+}
+
+#Flex div{
+    background-color: aqua;
+    border: 4px solid black;
+    height: 200px;
+    width: 15%;
+
+}
+
+#Flex .color{
+    background-color: darkgreen;
+}
+   
+

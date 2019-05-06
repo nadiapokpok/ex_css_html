@@ -1,0 +1,17 @@
+div{
+    background-color: yellow;
+}
+
+.para p{
+    color: red;
+}
+
+.bordure{
+    
+    border-style: double;
+    border-color: #32a1;
+}
+
+p~span{
+    padding: 0.5rem;
+}
